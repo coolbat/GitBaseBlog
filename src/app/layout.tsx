@@ -8,10 +8,10 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
   title: {
-    default: 'GitBase',
-    template: '%s | GitBase'
+    default: 'CoolBat',
+    template: '%s | CoolBat'
   },
-  description: 'Open source dynamic website without database, built with Next.js and GitHub API',
+  description: 'Build AI tools,build sass tools,build products that help people live better lives',
 }
 
 interface RootLayoutProps {

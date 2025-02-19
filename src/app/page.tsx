@@ -7,8 +7,8 @@ import ArticleList from '@/components/ArticleList'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'GitBase - Open Source Dynamic Website CMS Without Database',
-  description: 'A Next.js site with Tailwind & Shadcn/UI, using GitHub API for content management. No database needed for dynamic updates.',
+  title: 'CoolBat - Live Better Lives',
+  description: 'Build AI tools,build sass tools,build products that help people live better lives.',
 }
 
 export default function Home() {
@@ -20,11 +20,11 @@ export default function Home() {
     <div className="container mx-auto py-12 space-y-16">
       <section className="text-center space-y-4">
         <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-          GitBase
+        Live Better Lives
         </h1>
-        <h2 className="text-2xl tracking-tighter sm:text-3xl md:text-3xl lg:text-3xl">Open Source Dynamic Website CMS Without Database</h2>
+        <h2 className="text-2xl tracking-tighter sm:text-3xl md:text-3xl lg:text-3xl">Hi,I'm Coolbat,Welcome to my website</h2>
         <p className="mx-auto max-w-[700px] text-gray-500 md:text-xl">
-          GitBase is a dynamic, database-free website built with Next.js, Tailwind CSS, and Shadcn/UI, featuring a content management system powered by the GitHub API for seamless updates and administration.
+          I'm a product manager by day, and an entrepreneur by night. I'm passionate about building products that help people live better lives.
         </p>
       </section>
 
